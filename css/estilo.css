@@ -45,7 +45,6 @@ body{
     box-sizing: border-box;
     margin: 0 auto;
 }
-
 .perfil{
     width: 100%;
     display: flex;
@@ -113,7 +112,6 @@ body{
     justify-content: center;
     box-sizing: border-box;
     flex-shrink: 0;
-
 }
 .footer__texto{
     font-size: 14px;
